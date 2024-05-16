@@ -1,2 +1,3 @@
 # NewProjectInC
 newfile
+new
